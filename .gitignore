@@ -1,0 +1,131 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.idea/
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+[{'path': 'com.supercell.clashofclans', 'crawl': False}, {'path': 'com.BrainLadder.Amirza', 'crawl': False}, {'path': 'ir.nomogame.ClutchGame', 'crawl': False}, {'path': 'com.ForgeGames.SpecialForcesGroup2', 'crawl': False}, {'path': 'com.supercell.clashroyale', 'crawl': False}, {'path': 'ir.doorbash.hokm', 'crawl': False}, {'path': 'me.pou.app', 'crawl': False}, {'path': 'com.Monthly23.SwipeBrickBreaker', 'crawl': False}, {'path': 'com.king.candycrushsaga', 'crawl': False}, {'path': 'com.aim.racing', 'crawl': False}, {'path': 'com.mobirix.swipebrick2', 'crawl': False}, {'path': 'com.incytel.mencherz', 'crawl': False}, {'path': 'com.firsttouchgames.story', 'crawl': False}, {'path': 'com.sega.sonicdash', 'crawl': False}, {'path': 'com.medrick.match3', 'crawl': False}, {'path': 'com.smartapp.baaziimashinn', 'crawl': False}, {'path': 'alpha.emerg.prince', 'crawl': False}, {'path': 'com.wintergamestudio.kafkhabsport', 'crawl': False}, {'path': 'rashidi.lebas.elesa', 'crawl': False}, {'path': 'com.glimgames.taxi3', 'crawl': False}, {'path': 'com.irantopnewgames.lakbazi', 'crawl': False}, {'path': 'com.plus9.ghandoone', 'crawl': False}, {'path': 'rezvan.bob.jangi', 'crawl': False}, {'path': 'com.dropout.demolish', 'crawl': False}, {'path': 'ir.darchinstudio.LadybugCatNoirColoring', 'crawl': False}, {'path': 'patris.mive.khurd', 'crawl': False}, {'path': 'rezvan.kitty.nail', 'crawl': False}, {'path': 'rainbow.tamir.gushi', 'crawl': False}, {'path': 'rezvan.chub.bori', 'crawl': False}, {'path': 'saibork.team.carefoot', 'crawl': False}, {'path': 'ir.darchinstudio.ladybugfaceart', 'crawl': False}, {'path': 'net.alexplay.petroleum_tycoon', 'crawl': False}, {'path': 'com.zeptolab.ctr2.f2p.google', 'crawl': False}, {'path': 'com.sidheinteractive.sif.DR', 'crawl': False}, {'path': 'com.igg.castleclash_aptoide', 'crawl': False}, {'path': 'com.amelosinteractive.snake', 'crawl': False}, {'path': 'com.WildWorks.RyansTag', 'crawl': False}, {'path': 'com.game.space.shooter2', 'crawl': False}, {'path': 'com.hazar.fps', 'crawl': False}, {'path': 'co.spiritbomb.skychamp', 'crawl': False}, {'path': 'com.mastercomlimited.racethetraffic', 'crawl': False}, {'path': 'com.yuriychechulin.throwio.catappult', 'crawl': False}, {'path': 'air.com.aceviral.mutantfightingcup2', 'crawl': False}, {'path': 'com.devgame.fixies.masters.repair.games', 'crawl': False}, {'path': 'com.Zonmob.ShadowofDeath.FightingGames', 'crawl': False}, {'path': 'unity.enjen.bmx', 'crawl': False}, {'path': 'com.appnetgames.headhunters', 'crawl': False}, {'path': 'com.hcg.cok.cafebazaar', 'crawl': False}, {'path': 'com.dp.hobab', 'crawl': False}, {'path': 'com.spadstudio.magicfruitsfa', 'crawl': False}, {'path': 'com.zsoft.noghte', 'crawl': False}, {'path': 'org.cafebazi.ganjegharoon', 'crawl': False}, {'path': 'com.plus9.ghandoone', 'crawl': False}, {'path': 'com.acidgreengames.bingo', 'crawl': False}, {'path': 'ir.emangames.elements', 'crawl': False}, {'path': 'com.balootgames.khayati', 'crawl': False}, {'path': 'com.paeezanstudio.looters', 'crawl': False}, {'path': 'com.youngdggamess.roarofcity', 'crawl': False}, {'path': 'com.paeezan.negar', 'crawl': False}, {'path': 'com.heliogames.westland', 'crawl': False}, {'path': 'com.medrick.match3', 'crawl': False}, {'path': 'com.ALM.PolicePatrol2', 'crawl': False}, {'path': 'com.paeezanstudio.pesarkhande', 'crawl': False}, {'path': 'com.rabinoapp.guess_word', 'crawl': False}, {'path': 'com.barandeh.sho', 'crawl': False}, {'path': 'ir.tika_team.five', 'crawl': False}, {'path': 'com.Kandovan.CubeeProject', 'crawl': False}, {'path': 'com.AmanGames.HeroRun', 'crawl': False}, {'path': 'com.vispostudio.motofight', 'crawl': False}, {'path': 'com.brainladder.ghandopand', 'crawl': False}, {'path': 'info.medrick.golshifteh', 'crawl': False}, {'path': 'com.fakegames.bodobodo', 'crawl': False}, {'path': 'com.ShahGames.Davande', 'crawl': False}, {'path': 'com.tinykraken.kitchen.cooking.games', 'crawl': False}, {'path': 'ir.gurugames.treasureseekers', 'crawl': False}, {'path': 'com.sizak.salar99', 'crawl': False}, {'path': 'com.nevosoft.charmfarm', 'crawl': False}, {'path': 'com.mandmstudio.zombikosh', 'crawl': False}, {'path': 'studio.taawoos.gonbad', 'crawl': False}, {'path': 'com.assassingames.ninjafrogrope', 'crawl': False}, {'path': 'com.miniclip.bowmasters', 'crawl': False}, {'path': 'net.mobigame.zombietsunami', 'crawl': False}, {'path': 'com.clapfootgames.tankhero', 'crawl': False}, {'path': 'com.clapfootgames.laserwarsfree', 'crawl': False}, {'path': 'com.popreach.dumbways', 'crawl': False}, {'path': 'com.noodlecake.mmmfingers2', 'crawl': False}, {'path': 'com.noodlecake.mmmfingers', 'crawl': False}, {'path': 'com.habby.archero', 'crawl': False}, {'path': 'ir.zadrafee.crosswordpuzzle', 'crawl': False}, {'path': 'com.playrisedigital.ttrs', 'crawl': False}, {'path': 'com.baranagames.lingo', 'crawl': False}, {'path': 'com.byril.alchemy', 'crawl': False}, {'path': 'com.emaad.terrarium', 'crawl': False}, {'path': 'com.saina.neonir', 'crawl': False}, {'path': 'ir.gamegroup.numbers', 'crawl': False}, {'path': 'com.plus9.zirdaryae', 'crawl': False}, {'path': 'com.happykamp.hunter', 'crawl': False}, {'path': 'com.barandeh.sho', 'crawl': False}, {'path': 'com.gamebaaz.doctorhevanat', 'crawl': False}, {'path': 'com.wordsmobile.RealBikeRacing', 'crawl': False}, {'path': 'rezvan.oldmc.tractorr', 'crawl': False}, {'path': 'com.robtopx.geometrydashmeltdown', 'crawl': False}, {'path': 'com.puzzlekidsapp.pooryabazaar', 'crawl': False}, {'path': 'ir.tika_team.five', 'crawl': False}, {'path': 'co.abrstudio.nzt.game.idleheroes', 'crawl': False}, {'path': 'com.robingames.puzzlemarbles', 'crawl': False}, {'path': 'com.parsasoft.taranak', 'crawl': False}, {'path': 'ir.darchinstudio.LadybugCatNoir', 'crawl': False}, {'path': 'com.example.mafiahut', 'crawl': False}, {'path': 'com.mohammad.entertainment.kids_new_music1', 'crawl': False}, {'path': 'com0.Company.ProductName1', 'crawl': False}, {'path': 'ir.darchinstudio.LadybugCatNoir', 'crawl': False}, {'path': 'org.cafebazi.ganjegharoon', 'crawl': False}, {'path': 'com.mohammad.entertainment.kids_new_music1', 'crawl': False}, {'path': 'ir.rayanteam.dart', 'crawl': False}, {'path': 'com.fungames.highway.traffic.race', 'crawl': False}, {'path': 'app.baz.kipsmotor', 'crawl': False}, {'path': 'com.puzzle1studio.go.bubblepoporiginpuzzlegame', 'crawl': False}, {'path': 'net.peakgames.toonblast', 'crawl': False}, {'path': 'rt.mj.knifeThrow', 'crawl': False}, {'path': 'com.miniclip.minifootball', 'crawl': False}, {'path': 'com.farad.entertainment.kids_fruit', 'crawl': False}, {'path': 'com.spadstudio.magicfruitsfa', 'crawl': False}, {'path': 'com.miniclip.footballstrike', 'crawl': False}, {'path': 'com.alien.shooter.galaxy.attack', 'crawl': False}]
