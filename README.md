@@ -21,7 +21,8 @@ I make it for practice, fun and  work with Peewee ORM!
 
 ---
 ### **How Work it?**
-[site](https://cafebazaar.ir/) Its has api and crawler work with that.
+This [site](https://cafebazaar.ir/) send json response to user
+Its has api and crawler work with that.
 api has a payload we can send app path with that and get information from site 
 but before this we collect all categories from site and send in payload to other api and get all app path in that category and use app paths in get information app.
 
