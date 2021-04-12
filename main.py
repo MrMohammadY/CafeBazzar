@@ -1,7 +1,7 @@
 from crawler.cafebazaarcrawler import CafeBazzarDataCrawler, \
     CafeBazzarLinkCrawler
 from crawler.config import BASE_URL_DATA, BASE_URL_LINK
-from ORM.models import db, LinkCafeBazzar, DataCafeBazzar, Categories
+from models.models import db, LinkCafeBazzar, DataCafeBazzar, Categories
 import sys
 
 

@@ -4,7 +4,7 @@ from abc import ABC
 from crawler.parser import Parser
 from crawler.config import payload_link, payload_data, HEADER, CATEGORIES
 from threading import Thread
-from ORM.models import LinkCafeBazzar, DataCafeBazzar
+from models.models import LinkCafeBazzar, DataCafeBazzar
 from queue import Queue
 
 
